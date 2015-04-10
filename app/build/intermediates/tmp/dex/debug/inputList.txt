@@ -1,0 +1,2 @@
+/home/kyta-labs/AndroidStudioProjects/Clientcare/app/build/intermediates/classes/debug
+/home/kyta-labs/AndroidStudioProjects/Clientcare/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-672a7eaa07bb272b1d7ad3e38d8d69b9f77805a4.jar
